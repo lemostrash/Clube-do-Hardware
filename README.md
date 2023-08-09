@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lemostrash/Clube-do-Hardware">
-    <img src="./Images/hard.png" alt="Clube do Hardware" width="260" height="100">
+    <img src="./Images/hard3.png" alt="Clube do Hardware" width="260" height="100">
   </a>
 </p>
 
