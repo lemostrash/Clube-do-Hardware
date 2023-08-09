@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lemostrash/Clube-do-Hardware">
-    <img src="./images/hard.png" alt="Clube do Hardware" width="260" height="100">
+    <img src="./Images/hard.png" alt="Clube do Hardware" width="260" height="100">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ Qualquer ideia é bem-vinda, delas podemos treinar o que estudamos na sala de au
 Não sei você, mas sempre que eu vejo algo sobre robotica penso naqueles campeonatos de luta de robos, você simplesmente criar seu robo com papelão e garrafa pet e colocar para brigar com outro robo feito dos mais aleatorios materiais e componentes, o legal de juntar uma boa quantidade de pessoas com interesses desse genero é que podemos criar o nosso proprio campeonato amador, ok que o intuito é ver dois robos brigando, mas a trejetoria para construir o robo é necessario estudar uma linguagem de programação, saber sobre os componentes eletronicos que vamos usar e até mesmo saber lidar com trabalho em equipe, então é um grande sonho criar algo do genero com pessoas diversas de cursos diferentes e etc.
 
 <p align="center">
-    <img src="./images/robot.gif" alt="Clube do Hardware" width="600" height="300">
+    <img src="./Images/robot.gif" alt="Clube do Hardware" width="600" height="300">
       </a>
 </p>
 
@@ -31,7 +31,7 @@ Não sei você, mas sempre que eu vejo algo sobre robotica penso naqueles campeo
 Muitos alunos querem seguir na area de segurança mas infelizmente n sabem por onde começar, uns começam apenas usando programas já automatizados 100% mas não sabe o que rola por trás dele, uma base boa de redes de computadores, saber o que cada processo faz independente da area de segurança que você quer seguir vai te dar vantagem para saber lidar com certos problemas, então a ideia de criar novas amizades com os mesmos interesses pode te ajudar a ter uma noção por onde começar a estudar sobre, campeonatos de CTF amadores feitos por nós ou até mesmo quem tem a pontuação mais no hackflag já é um inicio para começar a ter aquela competitividade amigavel e satisfatoria.
 
 <p align="center">
-    <img src="./images/hacker1.gif" alt="Clube do Hardware" width="600" height="320">
+    <img src="./Images/hacker1.gif" alt="Clube do Hardware" width="600" height="300">
       </a>
 </p>
 
@@ -45,7 +45,7 @@ Criar ferramentas ou até mesmo sites é uma incrível forma de colocar o aprend
 
 <p align="center">
   <a href="https://discord.com/invite/qH6bQXdj">
-    <img src="./images/giphy.webp" alt="Clube do Hardware" width="" height="">
+    <img src="./Images/giphy.webp" alt="Clube do Hardware" width="" height="">
       </a>
 </p>
 
