@@ -28,7 +28,7 @@ Não sei você, mas sempre que eu vejo algo sobre robotica penso naqueles campeo
 
 ## 👨‍🚀 Ser hacker não é só assistir Mr Robot 
 
-Muitos alunos querem seguir na area de segurança mas infelizmente n sabem por onde começar, uns começam apenas usando programas já automatizados 100% mas não sabe o que rola por trás dele, uma base boa de redes de computadores, saber o que cada processo faz independente da area de segurança que você quer seguir vai te dar vantagem para saber lidar com certos problemas, então a ideia de criar novas amizades com os mesmos interesses pode te ajudar a ter uma noção por onde começar a estudar sobre, campeonatos de CTF amadores feitos por nós ou até mesmo quem tem a pontuação mais no hackflag já é um inicio para começar a ter aquela competitividade amigavel e satisfatoria.
+Muitos alunos querem seguir na area de segurança mas infelizmente n sabem por onde começar, uns começam apenas usando programas já automatizados 100% mas não sabe o que rola por trás dele, uma base boa de redes de computadores, saber o que cada processo faz independente da area de segurança que você quer seguir vai te dar vantagem para saber lidar com certos problemas, então a ideia de criar novas amizades com os mesmos interesses pode te ajudar a ter uma noção por onde começar a estudar sobre, campeonatos de CTF amadores feitos por nós ou até mesmo quem tem a pontuação mais no hackaflag já é um inicio para começar a ter aquela competitividade amigavel e satisfatoria.
 
 <p align="center">
     <img src="./Images/hacker1.gif" alt="Clube do Hardware" width="600" height="300">
