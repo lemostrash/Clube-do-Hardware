@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#-Discord)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#-:sound:-discord-:sound:)
 ## 🦾 Descubra o Clube do Hardware 👩‍💻👩🏻‍💻
 
 O Clube do Hardware é um fórum renomado, repleto de perguntas sobre problemas de TI e muito mais. Mas aqui, nossa proposta vai além! Nosso clube oferece um diferencial único, com encontros semanais ou mais, onde nos reunimos para colocar a mão na massa, criar projetos e estudar juntos.
@@ -40,7 +40,7 @@ Muitos alunos querem seguir na area de segurança mas infelizmente n sabem por o
 
 Criar ferramentas ou até mesmo sites é uma incrível forma de colocar o aprendizado em dia, somos programadores e ter ao menos 1 linguagem de programação sendo o nosso segundo idioma, por assim dizer, é mais que necessário. Se unir com alunos de outros cursos é bom, porque podemos ter uma demanda, podemos resolver o problema deles simplesmente programando algo hehe.
 
-## 🔊 Discord 🔊
+## :sound: Discord :sound:
 
 ### Espero que tenha se interessado, se quiser participar no grupo do Discord e até mesmo WhatsApp é clicar no cubo
 
