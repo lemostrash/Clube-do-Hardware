@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#-:sound:-discord-:sound:)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#discord)
 ## 🦾 Descubra o Clube do Hardware 👩‍💻👩🏻‍💻
 
 O Clube do Hardware é um fórum renomado, repleto de perguntas sobre problemas de TI e muito mais. Mas aqui, nossa proposta vai além! Nosso clube oferece um diferencial único, com encontros semanais ou mais, onde nos reunimos para colocar a mão na massa, criar projetos e estudar juntos.
